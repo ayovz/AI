@@ -4,6 +4,9 @@
 > A structured showcase of AI-generated creative assets produced using **Google Imagen (ImageFX)**, **Google Flow**, and complementary tools. This repository documents not just the outputs, but the **prompt engineering methodology** behind each result — demonstrating iterative refinement, creative direction, and commercial-grade thinking.
 
 ---
+## Drive Link
+
+[View Portfolio on Google Drive](https://drive.google.com/drive/folders/1v1C-XnZX0u4hOnQjyNUbwWIpX6mYBp88?usp=drive_link)
 
 ## 📁 Repository Structure
 
