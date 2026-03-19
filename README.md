@@ -61,7 +61,7 @@ This section demonstrates the prompt engineering process from first attempt to f
 ```
 A person using a mobile app on their phone.
 ```
-![Generation Version 1](CATEGORY%205%20-%20Iteration%20Methodology/v1.png)
+<img src="CATEGORY%205%20-%20Iteration%20Methodology/v1.png" width="600" alt="Generation Version 1">
 
 **Result:** Generic stock photo feel. Overly posed. Unusable for paid ads.
 **Decision:** Rejected — restart with intent.
@@ -73,7 +73,7 @@ A person using a mobile app on their phone.
 Young professional using a mobile banking app, 
 lifestyle photography, natural light, authentic.
 ```
-![Generation Version 2](CATEGORY%205%20-%20Iteration%20Methodology/v2.png)
+<img src="CATEGORY%205%20-%20Iteration%20Methodology/v2.png" width="600" alt="Generation Version 2">
 
 **Result:** Improved authenticity but background too busy. 
 Expression still feels staged. Depth of field too deep.
@@ -92,7 +92,7 @@ Expression still feels staged. Depth of field too deep.
   "negative": "no fake poses, no forced smile, no generic office"
 }
 ```
-![Generation Version 3](CATEGORY%205%20-%20Iteration%20Methodology/v3.png)
+<img src="CATEGORY%205%20-%20Iteration%20Methodology/v3.png" width="600" alt="Generation Version 3">
 
 **Result:** Authentic feel, good lighting. Composition slightly off-centre.
 Background competing with subject.
@@ -119,7 +119,7 @@ Background competing with subject.
   "use_case": "mobile app paid social ad, Meta format"
 }
 ```
-![Final Generation Version 4](CATEGORY%205%20-%20Iteration%20Methodology/v4_final.png)
+<img src="CATEGORY%205%20-%20Iteration%20Methodology/v4_final.png" width="600" alt="Final Generation Version 4">
 
 **Result:** ✅ Usable ad creative. Subject authentic, composition ad-ready,
 negative space available for copy overlay. Approved.
